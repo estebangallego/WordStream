@@ -1,0 +1,17 @@
+/*global*/
+a , h1, h2, h3 {color: blue;}
+.inline, .inline li {display: inline-block;vertical-align: top;}
+/*Wraper*/
+#wraper {width: 980px; margin: 0 auto;}
+/*Header*/
+#header {background-color: red;height: 140px}
+#logo {background-color: blue; width: 200px;height: 140px;}
+#rigth-info{background-color: purple; width: 500px;height: 140px;}
+#login {width: 50px;}
+/*Page Title*/
+#page-title {background-color: yellow;height: 55px;}
+/*Main Content*/
+#sidebar {width: 200px;background-color: grey;height: 500px;}
+#main-content {width: 775px; background-color: pink; height: 500px;}
+
+
